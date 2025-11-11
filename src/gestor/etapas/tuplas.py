@@ -10,3 +10,4 @@ videojuegos = [
 # Recorremos la lista e imprimimos los datos con el formato indicado
 for titulo, año, genero in videojuegos:
     print(f"{titulo} ({año}) {genero}")
+    
